@@ -1,4 +1,4 @@
-# Introduction to secret protection
+# Introduction to secret protectionj
 
 _Learn how to configure secret protection to identify secrets and prevent new ones from being committed to your repository._
 
